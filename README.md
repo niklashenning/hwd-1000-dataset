@@ -4,10 +4,11 @@
     Dataset containing 1000 images of handwritten digits (0-9) in various widths and styles.
 </p>
 
+
 <br>
 
 <p align="center">
-    <img src="temp.png">
+    <img src="https://github.com/user-attachments/assets/6b84dd91-b959-472a-a3b6-e327c1826a3d">
 </p>
 
 
